@@ -5,6 +5,7 @@ A public repository of materials for the SISRIS project, "Supporting inclusive a
 
 - _Paper to_ read [Groom et al. 2020](https://doi.org/10.1093/database/baaa072).
 - **Video** to watch first 30 minutes of
+- Sign up as a user on [Bionomia](https://bionomia.net/).
 
 ## Additional Resources
 - [ ] ~Paper to read~.
