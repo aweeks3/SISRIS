@@ -5,7 +5,7 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 
 # Workshops
 
-## Pre-Workshop Activities (estimated time for completion: 60 min)
+## Pre-Workshop Homework (estimated time for completion: 60 min)
 
 - [ ] Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
 - [ ] Watch first 31 minutes of a [You-Tube video](https://www.youtube.com/watch?v=PL_feKhrwMQ) from a prior Bionomia workshop about bat specimens, as a case study explaining concepts and terminology in biodiversity informatics and Bionomia that relate to "people-data". This will allow you to hit the ground running in the upcoming workshop.
