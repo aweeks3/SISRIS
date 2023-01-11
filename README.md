@@ -1,5 +1,5 @@
 # What is SISRIS?
-A public repository of materials for the SISRIS project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" (NSF #2247631, #2247632).
+The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is a conference grant supported by the US National Science Foundation (NSF #2247631 (Andrea Weeks, George Mason Univerity), #2247632 (Shawn Zeringue-Krosnick and Twanelle Majors, Tennesee Tech University). It supports two workshops and symposia at the annual meeting of the Association of Southeastern Biologists (March 2023; Winston-Salem, North Carolina) and Botany 2023 (July 2023; Boise, Idaho). 
 
 # Workshops
 
