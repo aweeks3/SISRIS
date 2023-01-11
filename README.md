@@ -29,3 +29,5 @@ vitae and future publications, and learn how to track collection-level research 
 2. PDF of how-to directions that reiterate workshop workflow [historical attribution, claiming ones specimens, reporting institutional metrics, importing unique collector ID's back into your institutions DB].
 
 # Symposia
+
+# Additional Resources
