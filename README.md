@@ -19,7 +19,7 @@ Bionomia platform.
 biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
 vitae and future publications, and learn how to track collection-level research impact.
 * 11:35–11:40 am: Concluding remarks about how to amplify this effort after the workshop.
-* 11:45 am–12:00: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 11:40 am–12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 12:00 pm: Adjourn
 
 ## Workshop Materials
