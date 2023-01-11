@@ -13,7 +13,7 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 - [ ] Sign up as a user on [Bionomia](https://bionomia.net/) using your ORCID ID number.
 - [ ] Bring your laptop to the workshop.
 
-## Workshop Schedule
+## Workshop Schedule (4 hours)
 * 8:00–8:10 am: Welcome and logistics
 * 8:10–8:30 am: Introductory remarks
 * 8:30–9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the
