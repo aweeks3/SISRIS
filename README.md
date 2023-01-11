@@ -10,4 +10,4 @@ A public repository of materials for the SISRIS project, "Supporting inclusive a
 ## Additional Resources
 - [ ] ~Paper to read~.
 - [ ] Video to watch first 30 minutes of
-![hat](https://user-images.githubusercontent.com/19411979/211651635-ee208363-a3a0-4f5d-a5ca-7c660dbad032.jpg)
+
