@@ -9,7 +9,23 @@ A public repository of materials for the SISRIS project, "Supporting inclusive a
 - [ ] Sign up as a user on [Bionomia](https://bionomia.net/) using your ORCID ID number.
 - [ ] Bring your laptop to the workshop.
 
-## Additional Resources
+## Workshop Schedule
+* 8:00–8:10 am: Welcome and logistics
+* 8:10–8:30 am: Introductory remarks
+* 8:30–9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the
+Bionomia platform.
+* 9:45–10:15 am: Break
+* 10:15–11:35 am: Hands-on: Participants document their own expertise and research contributions to
+biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
+vitae and future publications, and learn how to track collection-level research impact.
+* 11:35–11:40 am: Concluding remarks about how to amplify this effort after the workshop.
+* 11:45 am–12:00: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 12:00 pm: Adjourn
+
+## Workshop Materials
+1. Link to Google Doc containing some names of historical botanical collectors in the US from underrepresented groups who have digitized specimens posted to GBIF & Bionomia, elibible for disambiguation during the workshop. Note: this list is not exhaustive.
+2. PDF of how-to directions that reiterate workshop workflow [historical attribution, claiming ones specimens, reporting institutional metrics, importing unique collector ID's back into your institutions DB].
+3. 
 - [ ] ~Paper to read~.
 - [ ] Video to watch first 30 minutes of
 - [ ] **Video** to watch first 30 minutes of
