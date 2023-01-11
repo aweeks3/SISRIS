@@ -1,6 +1,8 @@
 # What is SISRIS?
 A public repository of materials for the SISRIS project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" (NSF #2247631, #2247632).
 
+# Workshops
+
 ## Pre-Workshop Activities (estimated time for completion: 60 min)
 
 - [ ] Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
@@ -25,3 +27,5 @@ vitae and future publications, and learn how to track collection-level research 
 ## Workshop Materials
 1. Link to editable Google Sheet containing some names of historical botanical collectors in the US from underrepresented groups who have digitized specimens posted to GBIF & Bionomia, elibible for disambiguation during the workshop. Note: this list is not exhaustive.
 2. PDF of how-to directions that reiterate workshop workflow [historical attribution, claiming ones specimens, reporting institutional metrics, importing unique collector ID's back into your institutions DB].
+
+# Symposia
