@@ -4,7 +4,7 @@ A public repository of materials for the SISRIS project, "Supporting inclusive a
 ## Pre-Workshop Activities (estimated time for completion: 60 min)
 
 - [ ] Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of "people-data" in natural history collections and their importance to systematics.
-- [ ] Watch first 31 minutes of a [You-Tube video](https://www.youtube.com/watch?v=PL_feKhrwMQ) from a prior Bionomia workshop about bat specimens, as a case study explaining concepts and terminology in biodiversity informatics that relate to "people-data".
+- [ ] Watch first 31 minutes of a [You-Tube video](https://www.youtube.com/watch?v=PL_feKhrwMQ) from a prior Bionomia workshop about bat specimens, as a case study explaining concepts and terminology in biodiversity informatics and Bionomia that relate to "people-data".
 - [ ] Make sure your ORCID profile is set to "Public".
 - [ ] Sign up as a user on [Bionomia](https://bionomia.net/) using your ORCID ID number.
 
