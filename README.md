@@ -42,7 +42,7 @@ vitae and future publications, and learn how to track collection-level research 
 * Speaker 1
 * Speaker 2
 ...
-# Related Readings and Other Resources
+# Related Readings and Other Resources:
 
 * Biodiversity Collections Network (BCN). 2019. Extending U.S. biodiversity collections to promote research and education. American Institute of Biological Sciences, Washington, DC.
 * Bionomia. 2022. Bionomia. Website https://bionomia.net/
