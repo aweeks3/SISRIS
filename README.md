@@ -42,4 +42,4 @@ vitae and future publications, and learn how to track collection-level research 
 * Speaker 1
 * Speaker 2
 ...
-# Additional Resources
+# Additional Reading and Other Resources
