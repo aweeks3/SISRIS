@@ -33,4 +33,13 @@ vitae and future publications, and learn how to track collection-level research 
 
 # Symposia
 
+## Annual Meeting of the Association of Southeastern Biologists SISRIS Symposium Schedule (March XX, 2023; Winston-Salem, North Carolina)
+* Speaker 1
+* Speaker 2
+...
+
+## Botany 2023 SISRIS Symposium Schedule (July XX, 2023; Boise, Idaho)
+* Speaker 1
+* Speaker 2
+...
 # Additional Resources
