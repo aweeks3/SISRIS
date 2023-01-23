@@ -3,6 +3,10 @@
 
 The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is a conference grant supported by the US National Science Foundation to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tenneseee Tech University; Hollister Herbarium)[LINK TO PUBLIC AWARD ABSTRACT]. It supports two US-based workshops and symposia at the 2023 annual meetings of the Association of Southeastern Biologists and Botany 2023. The purpose of the work is to share new practices that improve attribution of natural history specimens and highlight research advances in systematics that can be made as a consequence of improved "people-data" within biodiversity informatics databases.
 
+# How can I participate in SISRIS?
+
+Workshop attendence is by application to this site [LINK TO QUALTRIX]. The invited symposia are open to all conference attendees.
+
 # Workshops
 
 ## Pre-Workshop Homework (estimated time for completion: 60 min)
