@@ -5,7 +5,7 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 
 # How can I participate in SISRIS?
 
-Workshop attendence is by application to this site [LINK TO QUALTRIX]. The invited symposia are open to all conference attendees.
+Workshop attendence is by application to this site [LINK TO QUALTRIX]. The symposia are open to all conference attendees.
 
 # Workshops
 
@@ -38,13 +38,13 @@ vitae and future publications, and learn how to track collection-level research 
 # Symposia
 
 ## Annual Meeting of the Association of Southeastern Biologists SISRIS Symposium Schedule (March XX, 2023; Winston-Salem, North Carolina)
-* Speaker 1
-* Speaker 2
+* Invited Speaker 1
+* Invited Speaker 2
 ...
 
 ## Botany 2023 SISRIS Symposium Schedule (July XX, 2023; Boise, Idaho)
-* Speaker 1
-* Speaker 2
+* Invited Speaker 1
+* Invited Speaker 2
 ...
 # Related Readings and Other Resources:
 
