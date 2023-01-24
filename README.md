@@ -35,12 +35,18 @@ vitae and future publications, and learn how to track collection-level research 
 1. Link to editable Google Sheet containing some names of historical botanical collectors in the US from underrepresented groups who have digitized specimens posted to GBIF & Bionomia, elibible for disambiguation during the workshop. Note: this list is not exhaustive.
 2. PDF of how-to directions that reiterate workshop workflow [historical attribution, claiming ones specimens, reporting institutional metrics, importing unique collector ID's back into your institutions DB].
 
-# Symposia
+# Invited Symposia
 
 ## Annual Meeting of the Association of Southeastern Biologists SISRIS Symposium Schedule (March XX, 2023; Winston-Salem, North Carolina)
-* Invited Speaker 1
-* Invited Speaker 2
-...
+* **David Shorthouse**, Agriculture & Agri-Food Canada, Ottawa, Canada. "Increasing the surface area of discovery in support of specimen-based research and credit for effort through a roundtrip of links between natural history specimen records and unique identifiers for collectors."  
+* **Shawn Zeringue-Krosnick**, Tennessee Tech University. "TBD." 
+* **Andrea Weeks**, George Mason University. "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." 
+* **Carol Ann McCormick**, The University of North Carolina. "Knowing your collectors: How delving into the lives of collectors can illuminate specimens." 
+* **Pamela Puppo**, Marshall University. "TBD." 
+* **Robin Lewis** and Jessica Budke, University of Tennessee-Knoxville. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections." 
+* **Zack Murrell**, Appalachian State Univerity; Michael Denslow, ; Herrick Brown, University of South Carolina. "TBD." 
+* **Deb Paul**, University of Illinois. "Discovering together "who dunnit?": building a borderless knowledge community."
+
 
 ## Botany 2023 SISRIS Symposium Schedule (July XX, 2023; Boise, Idaho)
 * Invited Speaker 1
