@@ -37,7 +37,7 @@ vitae and future publications, and learn how to track collection-level research 
 
 # Invited Symposia
 
-## Annual Meeting of the Association of Southeastern Biologists SISRIS Symposium Schedule (March XX, 2023; Winston-Salem, North Carolina)
+## Annual Meeting of the Association of Southeastern Biologists (March XX, 2023; Winston-Salem, North Carolina)
 * **David Shorthouse**, Agriculture & Agri-Food Canada, Ottawa, Canada. "Increasing the surface area of discovery in support of specimen-based research and credit for effort through a roundtrip of links between natural history specimen records and unique identifiers for collectors."  
 * **Shawn Zeringue-Krosnick**, Tennessee Tech University. "TBD." 
 * **Andrea Weeks**, George Mason University. "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." 
@@ -48,7 +48,7 @@ vitae and future publications, and learn how to track collection-level research 
 * **Deb Paul**, University of Illinois. "Discovering together "who dunnit?": building a borderless knowledge community."
 
 
-## Botany 2023 SISRIS Symposium Schedule (July XX, 2023; Boise, Idaho)
+## Botany 2023 (July XX, 2023; Boise, Idaho)
 * Invited Speaker 1
 * Invited Speaker 2
 ...
