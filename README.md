@@ -45,7 +45,7 @@ vitae and future publications, and learn how to track collection-level research 
 * **Pamela Puppo**, Marshall University. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
 * **Robin Lewis** and Jessica Budke, University of Tennessee-Knoxville. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections." 
 * **Zack Murrell**, Appalachian State Univerity; Michael Denslow, ; Herrick Brown, University of South Carolina. "Strategies to enhance and sustain an established cyberinfrastructure." 
-* **Deb Paul**, University of Illinois. "Discovering together "who dunnit?": building a borderless knowledge community."
+* **Deborah L Paul**, University of Illinois. "Discovering together "who dunnit?": building a borderless knowledge community."
 
 
 ## Botany 2023 (July XX, 2023; Boise, Idaho)
