@@ -5,7 +5,7 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 
 # How can I participate in SISRIS?
 
-Workshop attendence is by application to this site [LINK TO QUALTRIX]. Attending the invited symposia is open to all conference participants; links to talks will be posted below.
+Workshop attendence is by application to this site [LINK TO QUALTRIX]. Attending the invited symposia is open to all conference participants; links to talks will be posted below. Inquires about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
 # Workshops
 
