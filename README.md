@@ -43,9 +43,9 @@ vitae and future publications, and learn how to track collection-level research 
 Siobhan Leachman, Makenzie E. Mabry. "Uncovering hidden figures of natural history collections using digital data sleuthing & storytelling." 
 * **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." 
 * **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors." 
-* **Pamela Puppo**, Lori Thompson, and Lindsey Harper (Marshall University). "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
-* **Robin Lewis** (), Hannah Bendull (), and Jessica Budke (University of Tennessee-Knoxville). "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections." 
-* **Zack Murrell** (Appalachian State Univerity), Michael Denslow (University of Florida), Herrick Brown (University of South Carolina), Andrea Weeks (George Mason University) and Shawn Krosnick (Tennessee Tech University). "Strategies to enhance and sustain an established cyberinfrastructure." 
+* **Pamela Puppo** (Marshall University) Lori Thompson, and Lindsey Harper . "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
+* **Robin Lewis** (affiliation), Hannah Bendull, and Jessica Budke. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections." 
+* **Zack Murrell** (Appalachian State Univerity), Michael Denslow , Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community."
 
 
