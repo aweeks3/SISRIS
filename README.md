@@ -38,14 +38,15 @@ vitae and future publications, and learn how to track collection-level research 
 # Invited Symposia
 
 ## Annual Meeting of the Association of Southeastern Biologists (March XX, 2023; Winston-Salem, North Carolina)
-* **David Shorthouse**, Agriculture & Agri-Food Canada, Ottawa, Canada. "Increasing the surface area of discovery in support of specimen-based research and credit for effort through a roundtrip of links between natural history specimen records and unique identifiers for collectors."  
-* **Shawn Zeringue-Krosnick**, Tennessee Tech University. "Uncovering hidden figures of natural history collections using digital data sleuthing & storytelling." 
-* **Andrea Weeks**, George Mason University. "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." 
-* **Carol Ann McCormick**, The University of North Carolina. "Delving into the lives of herbarium collectors." 
-* **Pamela Puppo**, Marshall University. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
+* **David Shorthouse** (Agriculture & Agri-Food Canada, Ottawa, Canada). "Increasing the surface area of discovery in support of specimen-based research and credit for effort through a roundtrip of links between natural history specimen records and unique identifiers for collectors."  
+* **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
+Siobhan Leachman, Makenzie E. Mabry. "Uncovering hidden figures of natural history collections using digital data sleuthing & storytelling." 
+* **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." 
+* **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors." 
+* **Pamela Puppo**, Lori Thompson, and Lindsey Harper (Marshall University). "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
 * **Robin Lewis** (), Hannah Bendull (), and Jessica Budke (University of Tennessee-Knoxville). "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections." 
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow (University of Florida), Herrick Brown (University of South Carolina), Andrea Weeks (George Mason University) and Shawn Krosnick (Tennessee Tech University). "Strategies to enhance and sustain an established cyberinfrastructure." 
-* **Deborah L Paul**, University of Illinois. "Discovering together "who dunnit?": building a borderless knowledge community."
+* **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community."
 
 
 ## Botany 2023 (July XX, 2023; Boise, Idaho)
