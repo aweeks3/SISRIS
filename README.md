@@ -46,7 +46,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Uncovering hidden figures of natural h
 * **Pamela Puppo** (Marshall University), Lori Thompson, and Lindsey Harper. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." Link to abstract.
 * **Robin Lewis** (affiliation TBD), Hannah Bendull, and Jessica Budke. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections." Link to abstract.
 * **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." Link to abstract.
-* **Daniel Koenemann** (Claflin University), Janelle Burke. "Title TBD: Charles Parker Howard University Herbarium." Link to abstract.
+* **Daniel Koenemann** (Claflin University), Janelle Burke. "Title TBD: about Charles Parker and the Howard University Herbarium." Link to abstract.
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." Link to abstract.
 
 
