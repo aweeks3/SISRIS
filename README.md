@@ -44,7 +44,7 @@ vitae and future publications, and learn how to track collection-level research 
 Siobhan Leachman, and Makenzie E. Mabry. "Uncovering hidden figures of natural history collections using digital data sleuthing & storytelling." Link to abstract.
 * **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." Link to abstract.
 * **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors." Link to abstract.
-* **Daniel Koenemann** (Claflin University), Janelle Burke. "Title TBD: about Charles Parker and the Howard University Herbarium." Link to abstract.
+* **Daniel Koenemann** (Claflin University), Janelle Burke. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." Link to abstract.
 * **Pamela Puppo** (Marshall University), Lori Thompson, and Lindsey Harper. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." Link to abstract.
 * **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and Jessica Budke. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections." Link to abstract.
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." Link to abstract.
