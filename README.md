@@ -41,7 +41,7 @@ vitae and future publications, and learn how to track collection-level research 
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." Link to abstract.
 * **David Shorthouse** (Agriculture & Agri-Food Canada, Ottawa, Canada). "Connecting Scientists and their Specimens through Bionomia." Link to abstract.
 * **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
-Siobhan Leachman, and Makenzie E. Mabry. "Uncovering hidden figures of natural history collections using digital data sleuthing & storytelling." Link to abstract.
+Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections." Link to abstract.
 * **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." Link to abstract.
 * **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors." Link to abstract.
 * **Daniel Koenemann** (Claflin University), Janelle Burke. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." Link to abstract.
