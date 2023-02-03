@@ -5,22 +5,15 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 
 # How can I participate in SISRIS?
 
-Workshop attendence at either of the conferences is by application to this site: [LINK TO QUALTRIX]. The SISRIS workshop at the Association of Southeastern Biologists conference will be held **Saturday March 26, 2023**. The SISRIS workshop at Botany2023 will be held on **Sunday July 23, 2023**. 
+Workshop attendence at either of the conferences is by application to this site: [LINK TO QUALTRIX]. The SISRIS workshop at the Association of Southeastern Biologists conference will be held **Saturday March 26, 2023**. The SISRIS workshop at Botany2023 will be held on **Sunday July 23, 2023**. Details about the workshop schedule and pre-workshop preparation is included below.
 
-Attending the invited symposia at both conferences is open to all conference participants; links to talks will be posted below. Inquires about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
+All conference participants may attend the invited symposium. Confirmed invited speakers and their titles are posted below. 
+
+Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
 # Workshops
 
-## Pre-Workshop Homework (estimated time for completion: 60 min)
-
-1. Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
-2. Watch first 31 minutes of a [You-Tube video](https://www.youtube.com/watch?v=PL_feKhrwMQ) from a prior Bionomia workshop about bat specimens, as a case study explaining concepts and terminology in biodiversity informatics and Bionomia that relate to "people-data". This will allow you to hit the ground running in the upcoming workshop.
-3. Set your ORCID profile to "Public".
-4. Sign up as a user on [Bionomia](https://bionomia.net/) using your ORCID ID number.
-5. Bring your laptop to the workshop.
-6. Bring your questions.
-
-## Workshop Schedule (4 hours - precise times TBD)
+## General Workshop Schedule (4 hours - precise times TBD for each conference)
 * 8:00–8:10 am: Welcome and logistics
 * 8:10–8:30 am: Introductory remarks
 * 8:30–9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the
@@ -32,6 +25,14 @@ vitae and future publications, and learn how to track collection-level research 
 * 11:35–11:40 am: Next steps and concluding remarks about how to amplify this effort after the workshop.
 * 11:40 am–12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 12:00 pm: Adjourn
+
+## Pre-Workshop Homework (estimated time for completion: 60 min)
+1. Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
+2. Watch first 31 minutes of a [You-Tube video](https://www.youtube.com/watch?v=PL_feKhrwMQ) from a prior Bionomia workshop about bat specimens, as a case study explaining concepts and terminology in biodiversity informatics and Bionomia that relate to "people-data". This will allow you to hit the ground running in the upcoming workshop.
+3. Set your ORCID profile to "Public".
+4. Sign up as a user on [Bionomia](https://bionomia.net/) using your ORCID ID number.
+5. Bring your laptop to the workshop.
+6. Bring your questions.
 
 ## Workshop Materials
 1. Link to editable Google Sheet containing some names of historical botanical collectors in the US from underrepresented groups who have digitized specimens posted to GBIF & Bionomia, eligible for disambiguation during the workshop. Note: this list is not exhaustive.
