@@ -11,7 +11,7 @@ All conference participants may attend the invited symposium. Confirmed invited 
 
 # Workshops
 
-## General Workshop Schedule (4 hours - precise times TBD for each conference)
+## General Workshop Schedule (4 hours - precise times for each conference TBD)
 * 8:00–8:10 am: Welcome and logistics
 * 8:10–8:30 am: Introductory remarks
 * 8:30–9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the
