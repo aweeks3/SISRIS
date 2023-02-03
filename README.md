@@ -5,7 +5,9 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 
 # How can I participate in SISRIS?
 
-Workshop attendence is by application to this site [LINK TO QUALTRIX]. Attending the invited symposia is open to all conference participants; links to talks will be posted below. Inquires about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
+Workshop attendence at either of the conferences is by application to this site: [LINK TO QUALTRIX]. The SISRIS workshop at the Association of Southeastern Biologists conference will be held **Saturday March 26, 2023**. The SISRIS workshop at Botany2023 will be held on **Sunday July 23, 2023**. 
+
+Attending the invited symposia at both conferences is open to all conference participants; links to talks will be posted below. Inquires about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
 # Workshops
 
@@ -18,7 +20,7 @@ Workshop attendence is by application to this site [LINK TO QUALTRIX]. Attending
 5. Bring your laptop to the workshop.
 6. Bring your questions.
 
-## Workshop Schedule (4 hours)
+## Workshop Schedule (4 hours - precise times TBD)
 * 8:00–8:10 am: Welcome and logistics
 * 8:10–8:30 am: Introductory remarks
 * 8:30–9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the
