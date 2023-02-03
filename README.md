@@ -37,7 +37,7 @@ vitae and future publications, and learn how to track collection-level research 
 
 # Invited Symposia
 
-## Annual Meeting of the Association of Southeastern Biologists (March XX, 2023; Winston-Salem, North Carolina)
+## Annual Meeting of the Association of Southeastern Biologists (March 25, 2023; Winston-Salem, North Carolina)
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." Link to abstract.
 * **David Shorthouse** (Agriculture & Agri-Food Canada, Ottawa, Canada). "Connecting Scientists and their Specimens through Bionomia." Link to abstract.
 * **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
