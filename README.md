@@ -1,7 +1,7 @@
 # What is SISRIS?
 <img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/19411979/211927315-e306bf29-fc6d-433a-8b59-7afb34a841e6.png">
 
-The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is a conference grant supported by the US National Science Foundation to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tenneseee Tech University; Hollister Herbarium)[LINK TO PUBLIC AWARD ABSTRACT]. It supports two US-based workshops and symposia at the 2023 annual meetings of the Association of Southeastern Biologists and Botany 2023. The purpose of the work is to share new practices that improve attribution of natural history specimens and highlight research advances in systematics that can be made as a consequence of improved "people-data" within biodiversity informatics databases.
+The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is a conference grant supported by the US National Science Foundation to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tenneseee Tech University; Hollister Herbarium). It supports two US-based workshops and symposia at the 2023 annual meetings of the Association of Southeastern Biologists and Botany 2023. The purpose of the work is to share new practices that improve attribution of natural history specimens and highlight research advances in systematics that can be made as a consequence of improved "people-data" within biodiversity informatics databases.
 
 # How can I participate in SISRIS?
 
@@ -40,20 +40,18 @@ vitae and future publications, and learn how to track collection-level research 
 # Invited Symposia
 
 ## Annual Meeting of the Association of Southeastern Biologists (Saturday March 25, 2023; Winston-Salem, North Carolina)
-* **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." Link to abstract.
+* **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
 * **David Shorthouse** (Agriculture & Agri-Food Canada, Ottawa, Canada). "Connecting Scientists and their Specimens through Bionomia." Link to abstract.
 * **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
-Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections." Link to abstract.
-* **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." Link to abstract.
-* **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors." Link to abstract.
-* **Daniel Koenemann** (Claflin University), Janelle Burke. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." Link to abstract.
-* **Pamela Puppo** (Marshall University), Lori Thompson, and Lindsey Harper. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." Link to abstract.
-* **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and Jessica Budke. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections." Link to abstract.
-* **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." Link to abstract.
-* Panel Discussion?
+Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections."
+* **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." 
+* **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors." 
+* **Daniel Koenemann** (Claflin University), Janelle Burke. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
+* **Pamela Puppo** (Marshall University), Lori Thompson, and Lindsey Harper. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
+* **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and Jessica Budke. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
+* **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 
-
-## Botany 2023 (July XX, 2023; Boise, Idaho)
+## Botany 2023 (July TBD, 2023; Boise, Idaho)
 * Invited Speaker 1
 * Invited Speaker 2
 ...
