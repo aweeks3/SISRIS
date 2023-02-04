@@ -40,7 +40,7 @@ vitae and future publications, and learn how to track collection-level research 
 
 ## Annual Meeting of the Association of Southeastern Biologists (Saturday March 25, 2023; Winston-Salem, North Carolina)
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
-* **David Shorthouse** (Agriculture & Agri-Food Canada, Ottawa, Canada). "Connecting Scientists and their Specimens through Bionomia." Link to abstract.
+* **David Shorthouse** (Agriculture & Agri-Food Canada, Ottawa, Canada). "Connecting scientists and their specimens through Bionomia."
 * **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
 Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections."
 * **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens." 
