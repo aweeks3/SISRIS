@@ -12,17 +12,16 @@ All conference participants may attend the invited symposium. Confirmed invited 
 # Workshops
 
 ## General Workshop Schedule (4 hours - precise times for each conference TBD)
-* 8:00–8:10 am: Welcome and logistics
-* 8:10–8:30 am: Introductory remarks
-* 8:30–9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the
-Bionomia platform.
-* 9:45–10:15 am: Break
-* 10:15–11:35 am: Hands-on: Participants document their own expertise and research contributions to
+* 1:30-1:40 pm: Welcome and logistics
+* 1:40-2:00 pm: Introductory remarks
+* 2:00–3:15 pm: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
+* 3:15–3:45 pm: Break
+* 3:45–5:05 pm: Hands-on: Participants document their own expertise and research contributions to
 biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
 vitae and future publications, and learn how to track collection-level research impact.
-* 11:35–11:40 am: Next steps and concluding remarks about how to amplify this effort after the workshop.
-* 11:40 am–12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
-* 12:00 pm: Adjourn
+* 5:05–5:10 pm: Next steps and concluding remarks about how to amplify this effort after the workshop.
+* 5:10–5:30 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 5:30 pm: Adjourn
 
 ## Pre-Workshop Homework (estimated time for completion: 60 min)
 1. Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
