@@ -10,9 +10,8 @@ Workshop attendence at either of the conferences is by application to this site:
 All conference participants may attend the invited symposium. Confirmed invited speakers and their titles are posted below. Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
 # Workshops
-
-## General Workshop Schedule (4 hours) 
-## ASB Workshop Schedule March 25
+ 
+## ASB Workshop Schedule Friday March 25
 * 1:30-1:40 pm: Welcome and logistics
 * 1:40-2:00 pm: Introductory remarks
 * 2:00–3:15 pm: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
