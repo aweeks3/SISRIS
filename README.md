@@ -5,9 +5,9 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 
 # How can I participate in SISRIS?
 
-Workshop attendence at either of the conferences is by application to this site: [SISRIS WORKSHOP REGISTRATION](https://tntech.co1.qualtrics.com/jfe/form/SV_bKrV3uJMACTDIkS). The SISRIS workshop at the Association of Southeastern Biologists conference will be held **Friday March 25, 2023**. The SISRIS workshop at Botany2023 will be held on **Sunday July 23, 2023**. Details about the workshop schedule and pre-workshop preparation are included below.
+Workshop attendence at either of the conferences is by application to this site: [SISRIS WORKSHOP REGISTRATION](https://tntech.co1.qualtrics.com/jfe/form/SV_bKrV3uJMACTDIkS). Please complete the pre-workshop homework before attending.
 
-All conference participants may attend the invited symposium. Confirmed invited speakers and their titles are posted below. Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
+Sympsosium attendence is open to all conference participants. Confirmed invited speakers and their titles are posted below. Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
 # Workshops
  
@@ -53,6 +53,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 * Invited Speaker 1
 * Invited Speaker 2
 ...
+
 # Related Readings and Other Resources:
 
 * Biodiversity Collections Network (BCN). 2019. Extending U.S. biodiversity collections to promote research and education. American Institute of Biological Sciences, Washington, DC.
