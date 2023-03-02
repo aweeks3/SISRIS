@@ -5,13 +5,13 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 
 # How can I participate in SISRIS?
 
-Workshop attendence at either of the conferences is by application to this site: [SISRIS WORKSHOP REGISTRATION](https://tntech.co1.qualtrics.com/jfe/form/SV_bKrV3uJMACTDIkS). Please complete the pre-workshop homework before attending.
+Workshop attendence at either of the conferences is by application to this site: [SISRIS WORKSHOP REGISTRATION](https://tntech.co1.qualtrics.com/jfe/form/SV_bKrV3uJMACTDIkS). Once you are confirmed, please complete the pre-workshop homework before attending.
 
-Sympsosium attendence is open to all conference participants. Confirmed invited speakers and their titles are posted below. Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
+Symposium attendence is open to all conference participants. Confirmed invited speakers and their titles are posted below. Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
 # Workshops
  
-## ASB Workshop Schedule (Friday March 25, 2023)
+## ASB Workshop Schedule (Friday March 25, 2023; Winston-Salem, North Carolina) (in-person only)
 * 1:30-1:40 pm: Welcome and logistics
 * 1:40-2:00 pm: Introductory remarks
 * 2:00–3:15 pm: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
@@ -23,6 +23,18 @@ vitae and future publications, and learn how to track collection-level research 
 * 5:10–5:30 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 5:30 pm: Adjourn
 
+## Botany Workshop Schedule (Sunday July 23, 2023; Boise, Idaho) (in-person and online participation opportunities)
+* TBD: Welcome and logistics
+* TBD: Introductory remarks
+* TBD: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
+* TBD: Break
+* TBD: Hands-on: Participants document their own expertise and research contributions to
+biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
+vitae and future publications, and learn how to track collection-level research impact.
+* TBD: Next steps and concluding remarks about how to amplify this effort after the workshop.
+* TBD: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* TBD: Adjourn
+* 
 ## Pre-Workshop Homework (estimated time for completion: 60 min)
 1. Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
 2. Watch first 31 minutes of a [You-Tube video](https://www.youtube.com/watch?v=PL_feKhrwMQ) from a prior Bionomia workshop about bat specimens, as a case study explaining concepts and terminology in biodiversity informatics and Bionomia that relate to "people-data". This will allow you to hit the ground running in the upcoming workshop.
@@ -50,8 +62,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 
 ## Botany 2023 (July TBD, 2023; Boise, Idaho)
-* Invited Speaker 1
-* Invited Speaker 2
+* coming soon
 ...
 
 # Related Readings and Other Resources:
