@@ -1,8 +1,7 @@
 # What is SISRIS?
-<img align="left" width="120" height="120" src=""![SISRIS_LOGO](https://user-images.githubusercontent.com/19411979/222419960-80c9dabc-5021-4c2a-aadf-7a5ca2c04a5f.jpg)>
-<img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/19411979/211927315-e306bf29-fc6d-433a-8b59-7afb34a841e6.png">
+<img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/19411979/222419960-80c9dabc-5021-4c2a-aadf-7a5ca2c04a5f.jpg">
 
-The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is a conference grant supported by the US National Science Foundation to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tenneseee Tech University; Hollister Herbarium). It supports two US-based workshops and symposia at the 2023 annual meetings of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) and [Botany 2023](https://2023.botanyconference.org/). The purpose of the work is to share new practices that improve attribution of natural history specimens and highlight research advances in systematics that can be made as a consequence of improved "people-data" within biodiversity informatics databases.
+The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is a conference grant supported by the US National Science Foundation to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tenneseee Tech University; Hollister Herbarium). It supports two US-based workshops and symposia at the 2023 annual meetings of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) and [Botany 2023](https://2023.botanyconference.org/). The purpose of the work is to share new practices that improve attribution of natural history specimens and highlight research advances in systematics that can be made as a consequence of improved "people-data" within biodiversity informatics databases. <img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/19411979/211927315-e306bf29-fc6d-433a-8b59-7afb34a841e6.png">
 
 # How can I participate in SISRIS?
 
@@ -25,16 +24,16 @@ vitae and future publications, and learn how to track collection-level research 
 * 5:30 pm: Adjourn
 
 ## Botany Workshop Schedule (Sunday July 23, 2023; Boise, Idaho) (in-person and online participation opportunities)
-* TBD: Welcome and logistics
-* TBD: Introductory remarks
-* TBD: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
-* TBD: Break
-* TBD: Hands-on: Participants document their own expertise and research contributions to
+* TBA: Welcome and logistics
+* TBA: Introductory remarks
+* TBA: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
+* TBA: Break
+* TBA: Hands-on: Participants document their own expertise and research contributions to
 biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
 vitae and future publications, and learn how to track collection-level research impact.
-* TBD: Next steps and concluding remarks about how to amplify this effort after the workshop.
-* TBD: Hands-on: Participants complete online workshop survey that will be emailed to each person.
-* TBD: Adjourn
+* TBA: Next steps and concluding remarks about how to amplify this effort after the workshop.
+* TBA: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* TBA: Adjourn
  
 ## Pre-Workshop Homework (estimated time for completion: 60 min)
 1. Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
