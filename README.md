@@ -27,16 +27,16 @@ vitae and future publications, and learn how to track collection-level research 
 * 5:30 pm: Adjourn
 
 ## Botany Workshop Schedule (Sunday July 23, 2023; Boise, Idaho) (in-person and online participation opportunities)
-* TBA: Welcome and logistics
-* TBA: Introductory remarks
-* TBA: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
-* TBA: Break
-* TBA: Hands-on: Participants document their own expertise and research contributions to
+* 8:00-8:10 am: Welcome and logistics
+* 8:10-8:30 am Introductory remarks
+* 8:30-9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
+* 9:45-10:15 am: Break
+* 10:15-11:35 am: Hands-on: Participants document their own expertise and research contributions to
 biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
 vitae and future publications, and learn how to track collection-level research impact.
-* TBA: Next steps and concluding remarks about how to amplify this effort after the workshop.
-* TBA: Hands-on: Participants complete online workshop survey that will be emailed to each person.
-* TBA: Adjourn
+* 11:35-11:40 am: Next steps and concluding remarks about how to amplify this effort after the workshop.
+* 11:40-12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 12:00 pm: Adjourn
  
 ## Pre-Workshop Homework (estimated time for completion: 60 min)
 1. Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
