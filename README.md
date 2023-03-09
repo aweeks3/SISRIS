@@ -72,6 +72,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 
 * Biodiversity Collections Network (BCN). 2019. Extending U.S. biodiversity collections to promote research and education. American Institute of Biological Sciences, Washington, DC.
 * Bionomia. 2022. Bionomia. Website https://bionomia.net/
+* Rebecca Dikow, Jenna T. B. Ekwealor, William J. B. Mattingly, Michael G. Trizna, Elizabeth Harmon, Torsten Dikow, Carlos F. Arias, Richard G. J. Hodel, Jennifer Spillane, Mirian T. N. Tsuchiya, Luis Villanueva, Alexander E. White, Madeline G. Bursell, Tiana Curry, Christelle Inema, and Kayla Geronimo-Anctil. 2023. Let the records show: attribution of scientific credit in natural history collections. International Journal of Plant Sciences. https://doi.org/10.1086/724949
 * European Organization For Nuclear Research, and OpenAIRE. 2013. Zenodo: Research. Shared.
 https://doi.org/10.25495/7gxk-rd71
 * GBIF. 2022. Global biodiversity informatics facility. Website https://www.gbif.org/ 
