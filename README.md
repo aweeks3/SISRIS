@@ -61,7 +61,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 * **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors." 
 * **Daniel Koenemann** (Claflin University), Janelle Burke. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
 * **Pamela Puppo** (Marshall University), Lori Thompson, and Lindsey Harper. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
-* **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and Jessica Budke. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
+* **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and **Jessica Budke**. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 
 ## Presentations at Botany 2023 (July TBD, 2023; Boise, Idaho)
