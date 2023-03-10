@@ -8,7 +8,7 @@ The project, "Supporting inclusive and sustainable research infrastructure for s
 
 Workshop participation at either of the conferences is by application to this site: [SISRIS WORKSHOP REGISTRATION](https://tntech.co1.qualtrics.com/jfe/form/SV_bKrV3uJMACTDIkS). Workshop participants must also be registered conference participants in order to attend the events.
 
-**Participation stipends should be available from the NSF award to defray the cost of attending the workshop.**  For ASB, these include 19 stipends @ $325 and 6 stipends @ $650, the latter designated to support individuals from groups underrepresented in science. For Botany, these include 22 stipends @ $500 and 8 stipends @ $1000. Limited funds should also be available to defray the cost of family dependent-care, if requested. All stipends are dispersed after workshop events. 
+**Participation stipends are available from the NSF award to defray the cost of attending the workshop.**  For ASB, these include 19 stipends @ $325 and 6 stipends @ $650, the latter designated to support individuals from groups underrepresented in science. For Botany, these include 22 stipends @ $500 and 8 stipends @ $1000. Limited funds should also be available to defray the cost of family dependent-care, if requested. All stipends are dispersed after workshop events. 
 
 Symposium attendance is open to any and all registered conference participants. Confirmed invited speakers and their titles are posted below. Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
