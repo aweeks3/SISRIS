@@ -70,6 +70,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 
 # Related Readings and Other Resources:
 
+* Bauer, Jennifer, Burkhalter, Roger, Karim, Talia, Krimmel, Erica, Landis, Margaret, Leachman, Siobhan, Little, Holly, Lorente, Malena, Mills, Suzanne K., Neu-Yagle, Nicole, Norton, Ben, Paul, Deborah, Shorthouse, David, Utrup, Jessica, Van Veldhuizen, Jacob, & Walker, Lindsay. (2022). paleo-data/guidelines-wikidata-people: release to accompany TDWG 2022 abstract (v0-beta). Zenodo. https://doi.org/10.5281/zenodo.6977244
 * Biodiversity Collections Network (BCN). 2019. Extending U.S. biodiversity collections to promote research and education. American Institute of Biological Sciences, Washington, DC.
 * Bionomia. 2022. Bionomia. Website https://bionomia.net/
 * Rebecca Dikow, Jenna T. B. Ekwealor, William J. B. Mattingly, Michael G. Trizna, Elizabeth Harmon, Torsten Dikow, Carlos F. Arias, Richard G. J. Hodel, Jennifer Spillane, Mirian T. N. Tsuchiya, Luis Villanueva, Alexander E. White, Madeline G. Bursell, Tiana Curry, Christelle Inema, and Kayla Geronimo-Anctil. 2023. Let the records show: attribution of scientific credit in natural history collections. International Journal of Plant Sciences. https://doi.org/10.1086/724949
