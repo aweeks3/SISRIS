@@ -48,7 +48,7 @@ vitae and future publications, and learn how to track collection-level research 
 
 ## Workshop Materials
 1. Link to editable Google Sheet containing some names of historical botanical collectors in the US from underrepresented groups who have digitized specimens posted to GBIF & Bionomia, eligible for disambiguation during the workshop. Note: this list is not exhaustive.
-2. PDF of how-to directions that reiterate workshop workflow [historical attribution, claiming ones specimens, reporting institutional metrics, importing unique collector ID's back into your institutions DB].
+2. PDF of how-to directions that reiterate workshop workflow (e.g. historical attribution, claiming ones specimens, reporting institutional metrics, importing unique collector ID's back into your institutions DB).
 
 # Invited Symposia
 
