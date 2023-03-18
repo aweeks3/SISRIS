@@ -86,6 +86,7 @@ https://doi.org/10.25495/7gxk-rd71
 * Leachman, S. 2020. Wikidata notes for bat collectors. Zenodo. https://doi.org/10.5281/zenodo.4724139 
 * Mabry, M. E., F. Zapata, D. L. Paul, P. M. O’Connor, P. S. Soltis, D. C. Blackburn, and N. B. Simmons. 2022. Monographs as a nexus for building extended specimen networks using persistent identifiers. Bulletin of the Society of Systematic Biologists 1. https://doi.org/10.18061/bssb.v1i1.8323
 * McDade, L. A., D. R. Maddison, R. Guralnick, H. A. Piwowar, M. L. Jameson, K. M. Helgen, P. S. Herendeen, et al. 2011. Biology needs a modern assessment system for professional productivity. BioScience 61: 619–625. https://doi.org/10.1525/bio.2011.61.8.8
+* Nicolson, N., Tucker, A. (2017). Identifying Novel Features from Specimen Data for the Prediction of Valuable Collection Trips. In: Adams, N., Tucker, A., Weston, D. (eds) Advances in Intelligent Data Analysis XVI. IDA 2017. Lecture Notes in Computer Science(), vol 10584. Springer, Cham. https://doi.org/10.1007/978-3-319-68765-0_20
 * ORCID. 2022. Open Researcher and Contributor ID. Website https://orcid.org/ 
 * Prather, L. A., O. Alvarez-Fuentes, M. H. Mayfield, and C. J. Ferguson. 2004. The decline of plant collecting in the United States: A threat to the infrastructure of biodiversity studies. Systematic Botany 29: 15–28. https://doi.org/10.1600/036364404772974185
 * Rohwer, V. G., Y. Rohwer, and C. B. Dillman. 2022. Declining growth of natural history collections fails future generations. PLOS Biology 20: e3001613. https://doi.org/10.1371/journal.pbio.3001613
