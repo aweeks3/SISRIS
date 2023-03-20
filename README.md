@@ -66,7 +66,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 
 ## Presentations at Botany 2023 (July TBD, 2023; Boise, Idaho), sponsored by the [Society of Herbarium Curators](https://www.herbariumcurators.org/) within their Special Session of the conference program.
 * confirmed roster TBA by April.
-...
+
 
 # Related Readings and Other Resources:
 
