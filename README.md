@@ -78,7 +78,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 https://doi.org/10.25495/7gxk-rd71
 * GBIF. 2022. Global biodiversity informatics facility. Website https://www.gbif.org/ 
 * Grace, O. M., O. A. Pérez-Escobar, E. J. Lucas, M. S. Vorontsova, G. P. Lewis, B. E. Walker, L. G. Lohmann, et al. 2021. Botanical monography in the Anthropocene. Trends in Plant Science 26: 433–441. https://doi.org/10.1016/j.tplants.2020.12.018
-* Q. J. Groom, C. O’Reilly & T. Humphrey (2014) Herbarium specimens reveal the exchange network of British and Irish botanists, 1856–1932, New Journal of Botany, 4:2, 95-103, DOI: 10.1179/2042349714Y.0000000041 
+* Q. J. Groom, C. O’Reilly & T. Humphrey (2014) Herbarium specimens reveal the exchange network of British and Irish botanists, 1856–1932, New Journal of Botany, 4:2, 95-103, https://doi.org/10.1179/2042349714Y.0000000041 
 * Groom, Q., A. Güntsch, P. Huybrechts, N. Kearney, S. Leachman, N. Nicolson, R. D. M. Page, et al. 2020. People are essential to linking biodiversity data. Database 2020: baaa072. https://doi.org/10.1093/database/baaa072
 * Groom Q, Bräuchler C, Cubey RWN, Dillen M, Huybrechts P, Kearney N, Klazenga N, Leachman S, Paul DL, Rogers H, Santos J, Shorthouse DP, Vaughan A, von Mering S, Haston EM (2022) The disambiguation of people names in biological collections. Biodiversity Data Journal 10: e86089. https://doi.org/10.3897/BDJ.10.e86089.
 * Güntsch, A., Q. Groom, M. Ernst, J. Holetschek, A. Plank, D. Röpert, D. Fichtmüller, et al. 2021. A botanical demonstration of the potential of linking data using unique identifiers for people. PLOS ONE16: e0261130. https://doi.org/10.1371/journal.pone.0261130
