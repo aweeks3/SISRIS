@@ -47,8 +47,9 @@ vitae and future publications, and learn how to track collection-level research 
 6. Bring your questions.
 
 ## Workshop Materials
-1. Link to [editable Google Sheet](https://docs.google.com/spreadsheets/d/18g8jUAF1KLwavRz1DRTeGxjS-kWokJB5ScT7KqfxKko/edit?usp=sharing) containing some names of historical botanical collectors in the US who have digitized specimen data posted to GBIF and who are available on Bionomia for disambiguation during the workshop. Note: this list is not exhaustive.
+1. Link to Our Data Set in an [editable Google Sheet](https://docs.google.com/spreadsheets/d/18g8jUAF1KLwavRz1DRTeGxjS-kWokJB5ScT7KqfxKko/edit?usp=sharing) containing some names of historical botanical collectors in the US who have digitized specimen data posted to GBIF and who are available on Bionomia for disambiguation during the workshop. Note: this list is not exhaustive.
 2. PDF of how-to directions that reiterate workshop workflow (e.g. historical attribution, claiming one's specimens, reporting institutional metrics, importing unique collector ID's back into your institution's DB).
+3. [Group Notes](https://docs.google.com/document/d/1962RgOCpEBIr96Z-OxRmARvjutaz_EI75komWWGw2ZU/edit?usp=sharing) for ASB2023 SISRIS Workshop.
 
 # Invited Symposia
 
