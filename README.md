@@ -55,6 +55,7 @@ vitae and future publications, and learn how to track collection-level research 
 
 ## Presentations at the Annual Meeting of the Association of Southeastern Biologists (Saturday March 25, 2023; Winston-Salem, North Carolina)
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
+  * Slides as [PDF on Zenodo https://doi.org/10.5281/zenodo.7796330](https://doi.org/10.5281/zenodo.7796330)
 * **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
 * **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
 Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections."
