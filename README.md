@@ -55,14 +55,14 @@ vitae and future publications, and learn how to track collection-level research 
 
 ## Presentations at the Annual Meeting of the Association of Southeastern Biologists (Saturday March 25, 2023; Winston-Salem, North Carolina)
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
-  * Slides as [PDF on Zenodo https://doi.org/10.5281/zenodo.7796330](https://doi.org/10.5281/zenodo.7796330)
+  * Slides as [PDF on Zenodo](https://doi.org/10.5281/zenodo.7796330)
 * **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
   * Slides as [PDF on Git Hub](https://github.com/aweeks3/SISRIS/blob/main/presentations/Shorthouse_Bionomia.pdf)
 * **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
 Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections."
-  * Slides as [PDF on QUBES Hub http://dx.doi.org/10.25334/FP7P-V513](http://dx.doi.org/10.25334/FP7P-V513)
+  * Slides as [PDF on QUBES Hub](http://dx.doi.org/10.25334/FP7P-V513)
 * **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens."   
-  * Slides as [PDF on Zenodo https://doi.org/10.5281/zenodo.7799575](https://doi.org/10.5281/zenodo.7799575)
+  * Slides as [PDF on Zenodo](https://doi.org/10.5281/zenodo.7799575)
 * **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors."
   * Slides as [PDF on Git Hub](https://github.com/aweeks3/SISRIS/blob/main/presentations/McCormickASB2023.pdf)
 * **Daniel Koenemann** (Claflin University), Janelle Burke. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
