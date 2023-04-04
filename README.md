@@ -63,7 +63,8 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
   * Slides as [PDF on QUBES Hub http://dx.doi.org/10.25334/FP7P-V513](http://dx.doi.org/10.25334/FP7P-V513)
 * **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens."   
   * Slides as [PDF on Zenodo https://doi.org/10.5281/zenodo.7799575](https://doi.org/10.5281/zenodo.7799575)
-* **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors." 
+* **Carol Ann McCormick** (The University of North Carolina). "Delving into the lives of herbarium collectors."
+  * Slides as [PDF on Git Hub](https://github.com/aweeks3/SISRIS/blob/main/presentations/McCormickASB2023.pdf)
 * **Daniel Koenemann** (Claflin University), Janelle Burke. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
 * **Pamela Puppo** (Marshall University), Lori Thompson, and Lindsey Harper. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
 * **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and **Jessica Budke**. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
