@@ -74,7 +74,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 ## Presentations at Botany 2023 (July TBD, 2023; Boise, Idaho), sponsored by the [Society of Herbarium Curators](https://www.herbariumcurators.org/) within their Special Session of the conference program.
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
 * **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
-* **Erica Krimmel"** (TBA). "People in the biodiversity knowledge graph and their roles in building the data connections we need."
+* **Erica Krimmel** (TBA). "People in the biodiversity knowledge graph and their roles in building the data connections we need."
 * **Katie Pearson** (Symbiota Support Hub), Ed Gilbert, Jenn Yost, Greg Post, and Nico Franz. "Even more hidden figures in biodiversity specimen collections: Tracking agent contributions in Symbiota."
 * **Rebecca Dikow** (Smithsonian Institution), Jenna T. B. Ekwealor, William J. B. Mattingly, Michael G. Trizna, Elizabeth Harmon, Torsten Dikow, Carlos F. Arias, Richard G. J. Hodel, Jennifer Spillane, Mirian T. N. Tsuchiya, Luis Villanueva, Alexander E. White, Madeline G. Bursell, Tiana Curry, Christelle Inema, and Kayla Geronimo-Anctil. "Let the records show: attribution of scientific credit in natural history collections."
 * **Jessica Budke** (University of Tennessee-Knoxville), Hannah Bendull, and Robin Lewis. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
