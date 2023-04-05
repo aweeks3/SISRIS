@@ -67,6 +67,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
   * Slides as [PDF on Git Hub](https://github.com/aweeks3/SISRIS/blob/main/presentations/McCormickASB2023.pdf)
 * **Daniel Koenemann** (Claflin University), Janelle Burke. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
 * **Pamela Puppo** (Marshall University), Lori Thompson, and Lindsey Harper. "Uncovering hidden figures at the Marshall University Herbarium through inter-disciplinary collaborations." 
+  * Slides as [PDF on Git Hub](https://github.com/aweeks3/SISRIS/blob/main/presentations/Puppo_MUHW_SISRIS%20Symposium_ASB2023.pdf)
 * **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and **Jessica Budke**. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 
