@@ -71,8 +71,14 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 
 ## Presentations at Botany 2023 (July TBD, 2023; Boise, Idaho), sponsored by the [Society of Herbarium Curators](https://www.herbariumcurators.org/) within their Special Session of the conference program.
-* confirmed roster TBA by April.
-
+* **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
+* **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
+* **Jessica Budke** (University of Tennessee-Knoxville), Hannah Bendull, and Robin Lewis. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
+* **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
+* **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens."   
+* **Janelle Burke** (Howard University, Daniel Koenemann . "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
+* **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
+Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections."
 
 # Related Readings and Other Resources:
 
