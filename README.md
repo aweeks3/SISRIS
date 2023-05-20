@@ -71,7 +71,7 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 * **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and **Jessica Budke**. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 
-## Presentations at Botany 2023 (Wednesday July 26, 8 am - 12 pm; Boise, Idaho), sponsored by the [Society of Herbarium Curators](https://www.herbariumcurators.org/) within their Special Lectures ession of the conference program.
+## Presentations at Botany 2023 (Wednesday July 26, 8 am - 12 pm; Boise, Idaho), sponsored by the [Society of Herbarium Curators](https://www.herbariumcurators.org/) within their Special Lecture session of the conference program.
 * **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
 * **Erica Krimmel** "People in the biodiversity knowledge graph and their roles in building the data connections we need."
