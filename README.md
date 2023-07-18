@@ -29,12 +29,12 @@ vitae and future publications, and learn how to track collection-level research 
 ## Botany Workshop Schedule (Sunday July 23, 2023; Boise, Idaho) (in-person and online participation opportunities)
 * 8:00-8:10 am: Welcome and logistics
 * 8:10-8:30 am Introductory remarks
-* 8:30-9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
+* 8:30-9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform and learn how to _pay-it-forward_.
 * 9:45-10:15 am: Break
-* 10:15-11:35 am: Hands-on: Participants document their own expertise and research contributions to
+* 10:15-11:25 am: Hands-on: Participants document their own expertise and research contributions to
 biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
 vitae and future publications, and learn how to track collection-level research impact.
-* 11:35-11:40 am: Next steps and concluding remarks about how to amplify this effort after the workshop.
+* 11:25-11:45 am: Wikidata (optional) and WrapUp.
 * 11:40-12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 12:00 pm: Adjourn
  
