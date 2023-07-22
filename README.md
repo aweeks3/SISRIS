@@ -74,7 +74,8 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 ## Presentations at Botany 2023 (Wednesday July 26, 8 am - 12 pm; Boise, Idaho), sponsored by the [Society of Herbarium Curators](https://www.herbariumcurators.org/) within their Special Lecture session of the conference program.
 * **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
-* **Erica Krimmel** "People in the biodiversity knowledge graph and their roles in building the data connections we need."
+* **Erica Krimmel**, Holly Little. "People in the biodiversity knowledge graph and their roles in building the data connections we need."
+  * Slides as [PDF on Zenodo](https://doi.org/10.5281/zenodo.8174678)
 * **Katie Pearson** (Symbiota Support Hub), Ed Gilbert, Jenn Yost, Greg Post, and Nico Franz. "Even more hidden figures in biodiversity specimen collections: Tracking agent contributions in Symbiota."
 * **Herrick Brown** (Univerity of South Carolina), Zack Murrell, Michael Denslow, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 * **Jessica Budke** (University of Tennessee-Knoxville), Hannah Bendull, and Robin Lewis. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
@@ -86,7 +87,8 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 
 # Related Readings and Other Resources:
 
-* Bauer, Jennifer, Burkhalter, Roger, Karim, Talia, Krimmel, Erica, Landis, Margaret, Leachman, Siobhan, Little, Holly, Lorente, Malena, Mills, Suzanne K., Neu-Yagle, Nicole, Norton, Ben, Paul, Deborah, Shorthouse, David, Utrup, Jessica, Van Veldhuizen, Jacob, & Walker, Lindsay. (2022). paleo-data/guidelines-wikidata-people: release to accompany TDWG 2022 abstract (v0-beta). Zenodo. https://doi.org/10.5281/zenodo.6977244 (See [TDWG 2022 abstract](https://doi.org/10.3897/biss.5.74370))
+*  Bauer J, Burkhalter R, Karim T, Krimmel E, Landis M, Leachman S, Little H, Lorente M, Mills SK, Neu-Yagle N, Norton B, Paul D, Shorthouse D, Utrup J, Van Veldhuizen J, and Walker L. 2022. Guidelines for Using Wikidata to Mobilize Information about People in Collections: A Paleontology Perspective. https://doi.org/10.5281/zenodo.6977243 (See [TDWG 2022 abstract](https://doi.org/10.3897/biss.5.74370))
+   * _View a formatted version of this document at https://paleo-data.github.io/guidelines-wikidata-people_
 * Biodiversity Collections Network (BCN). 2019. Extending U.S. biodiversity collections to promote research and education. American Institute of Biological Sciences, Washington, DC.
 * Bionomia. 2022. Bionomia. Website https://bionomia.net/
 * Rebecca Dikow, Jenna T. B. Ekwealor, William J. B. Mattingly, Michael G. Trizna, Elizabeth Harmon, Torsten Dikow, Carlos F. Arias, Richard G. J. Hodel, Jennifer Spillane, Mirian T. N. Tsuchiya, Luis Villanueva, Alexander E. White, Madeline G. Bursell, Tiana Curry, Christelle Inema, and Kayla Geronimo-Anctil. 2023. Let the records show: attribution of scientific credit in natural history collections. International Journal of Plant Sciences. https://doi.org/10.1086/724949
