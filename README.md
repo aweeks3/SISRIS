@@ -35,7 +35,7 @@ vitae and future publications, and learn how to track collection-level research 
 biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
 vitae and future publications, and learn how to track collection-level research impact.
 * 11:25-11:45 am: Wikidata (optional) and WrapUp.
-* 11:40-12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 11:45-12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 12:00 pm: Adjourn
  
 ## Pre-Workshop Homework (estimated time for completion: 60 min)
