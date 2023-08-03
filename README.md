@@ -63,6 +63,7 @@ vitae and future publications, and learn how to track collection-level research 
 2. [PDF of how-to directions](https://github.com/aweeks3/SISRIS/blob/main/documents/bionomia-for-sisris-v0-24March2023.pdf) that reiterate workshop workflow (e.g. historical attribution, claiming one's specimens, reporting institutional metrics, importing unique collector ID's back into your institution's DB). [Zenodo DOI to latest version](https://doi.org/10.5281/zenodo.7767332)
 3. [ASB 2023 Group Notes](https://docs.google.com/document/d/1962RgOCpEBIr96Z-OxRmARvjutaz_EI75komWWGw2ZU/edit?usp=sharing) for SISRIS Workshop.
 4. [Botany 2023 Group Notes](https://docs.google.com/document/d/173oD6YUpkvSkVa90GC16R9ZwnByQT6elUMU02dsq7xM/edit?usp=sharing) for SISRIS Workshop.
+5. [Online SISRIS Workshop Group Notes](https://docs.google.com/document/d/1iJb8zasTkr0IJ8rna0ikH4RqzKN49qmx4enzomLD2DU/edit?usp=sharing) for 6 August 2023.
 
 # Invited Symposia
 
