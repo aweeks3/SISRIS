@@ -26,7 +26,7 @@ vitae and future publications, and learn how to track collection-level research 
 * 5:10–5:30 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 5:30 pm: Adjourn
 
-## Botany Workshop Schedule (Sunday July 23, 2023; Boise, Idaho) (in-person and online participation opportunities)
+## Botany Workshop Schedule (Sunday July 23, 2023; Boise, Idaho) (in-person only)
 * 8:00-8:10 am: Welcome and logistics
 * 8:10-8:30 am Introductory remarks
 * 8:30-9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform and learn how to _pay-it-forward_.
@@ -37,6 +37,18 @@ vitae and future publications, and learn how to track collection-level research 
 * 11:25-11:45 am: Wikidata (optional) and WrapUp.
 * 11:45-12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 12:00 pm: Adjourn
+
+## Online Workshop Schedule (Sunday August 6; Eastern Daylight Time/GMT-4 timezone)
+* 9:00-9:10 am: Welcome and logistics
+* 9:10-9:30 am Introductory remarks
+* 9:30-10:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform and learn how to _pay-it-forward_.
+* 10:45-11:15 am: Break
+* 11:15-12:25 pm: Hands-on: Participants document their own expertise and research contributions to
+biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
+vitae and future publications, and learn how to track collection-level research impact.
+* 12:25-12:45 pm: Wikidata (optional) and WrapUp.
+* 12:45-11:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 1:00 pm: Adjourn
  
 ## Pre-Workshop Homework (estimated time for completion: 60 min)
 1. Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
