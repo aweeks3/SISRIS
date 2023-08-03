@@ -81,7 +81,8 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
 * **Herrick Brown** (Univerity of South Carolina), Zack Murrell, Michael Denslow, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
 * **Jessica Budke** (University of Tennessee-Knoxville), Hannah Bendull, and Robin Lewis. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
 * **Rebecca Dikow** (Smithsonian Institution), Jenna T. B. Ekwealor, William J. B. Mattingly, Michael G. Trizna, Elizabeth Harmon, Torsten Dikow, Carlos F. Arias, Richard G. J. Hodel, Jennifer Spillane, Mirian T. N. Tsuchiya, Luis Villanueva, Alexander E. White, Madeline G. Bursell, Tiana Curry, Christelle Inema, and Kayla Geronimo-Anctil. "Let the records show: attribution of scientific credit in natural history collections."
-* **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens."   
+* **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens."
+  * Slides as [PDF and MP4 recording on Zenodo](https://doi.org/10.5281/zenodo.7799575)  
 * **Janelle Burke** (Howard University), Dominique Pittman-Kidd and Daniel Koenemann. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
 * **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
 Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections."
