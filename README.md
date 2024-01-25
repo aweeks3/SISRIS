@@ -1,20 +1,20 @@
 # What is SISRIS?
 <img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/19411979/222419960-80c9dabc-5021-4c2a-aadf-7a5ca2c04a5f.jpg">
 
-The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is supported by a [conference grant from the US National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2247631&HistoricalAwards=false) to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tennessee Tech University; Hollister Herbarium). It supports two US-based workshops and symposia at the 2023 annual meetings of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) and [Botany 2023](https://2023.botanyconference.org/). The purpose of the work is to share new practices that improve attribution of natural history specimens and highlight research advances in systematics that can be made as a consequence of improved people-data within biodiversity informatics databases.  
+The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is supported by a [conference grant from the US National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2247631&HistoricalAwards=false) to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tennessee Tech University; Hollister Herbarium). It supports US-based workshops and symposia that 1) share new practices that improve attribution of natural history specimens and 2) highlight research advances in systematics that can be made as a consequence of improved people-data within biodiversity informatics databases. the 2023 annual meetings of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) and . The purpose of the work is to   
 <img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/19411979/211927315-e306bf29-fc6d-433a-8b59-7afb34a841e6.png">
 
 # How can I participate in SISRIS?
 
-Workshop participation at either of the conferences is by application to this site: [SISRIS WORKSHOP REGISTRATION](https://tntech.co1.qualtrics.com/jfe/form/SV_bKrV3uJMACTDIkS). Workshop participants must also be registered conference participants in order to attend the events.
+Workshop participation at conferences is by application to this site: [SISRIS WORKSHOP REGISTRATION](https://tntech.co1.qualtrics.com/jfe/form/SV_bKrV3uJMACTDIkS). Workshop participants must also be registered conference participants in order to attend the events.
 
-**Participation stipends are available from the NSF award to defray the cost of attending the workshop.**  For ASB, these include 19 stipends @ $325 and 6 stipends @ $650, the latter designated to support individuals from groups underrepresented in science. For Botany, these include 22 stipends @ $500 and 8 stipends @ $1000. Limited funds should also be available to defray the cost of family dependent-care, if requested. All stipends are dispersed after workshop events. 
+**Participation stipends are available from the NSF award to defray the cost of attending the workshops.**  
 
 Symposium attendance is open to any and all registered conference participants. Confirmed invited speakers and their titles are posted below. Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
 # Workshops
  
-## ASB Workshop Schedule (Friday March 24, 2023; Winston-Salem, North Carolina) (in-person only)
+## Workshop Schedule at the 2023 Annual Meeting of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) (Friday March 24, 2023; Winston-Salem, North Carolina) (in-person only)
 * 1:30-1:40 pm: Welcome and logistics
 * 1:40-2:00 pm: Introductory remarks
 * 2:00–3:15 pm: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
@@ -26,7 +26,7 @@ vitae and future publications, and learn how to track collection-level research 
 * 5:10–5:30 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 5:30 pm: Adjourn
 
-## Botany Workshop Schedule (Sunday July 23, 2023; Boise, Idaho) (in-person only)
+## Workshop Schedule at [Botany 2023](https://2023.botanyconference.org/) (Sunday July 23, 2023; Boise, Idaho) (in-person only)
 * 8:00-8:10 am: Welcome and logistics
 * 8:10-8:30 am Introductory remarks
 * 8:30-9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform and learn how to _pay-it-forward_.
@@ -67,7 +67,22 @@ vitae and future publications, and learn how to track collection-level research 
 
 # Invited Symposia
 
-## Presentations at the Annual Meeting of the Association of Southeastern Biologists (Saturday March 25, 2023; Winston-Salem, North Carolina)
+## Presentations at [Botany 2023](https://2023.botanyconference.org/) (Wednesday July 26, 8 am - 12 pm; Boise, Idaho), sponsored by the [Society of Herbarium Curators](https://www.herbariumcurators.org/) within their Special Lecture session of the conference program.
+* **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
+* **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
+* **Erica Krimmel**, Holly Little. "People in the biodiversity knowledge graph and their roles in building the data connections we need."
+  * Slides as [PDF on Zenodo](https://doi.org/10.5281/zenodo.8174678)
+* **Katie Pearson** (Symbiota Support Hub), Ed Gilbert, Jenn Yost, Greg Post, and Nico Franz. "Even more hidden figures in biodiversity specimen collections: Tracking agent contributions in Symbiota."
+* **Herrick Brown** (Univerity of South Carolina), Zack Murrell, Michael Denslow, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
+* **Jessica Budke** (University of Tennessee-Knoxville), Hannah Bendull, and Robin Lewis. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
+* **Rebecca Dikow** (Smithsonian Institution), Jenna T. B. Ekwealor, William J. B. Mattingly, Michael G. Trizna, Elizabeth Harmon, Torsten Dikow, Carlos F. Arias, Richard G. J. Hodel, Jennifer Spillane, Mirian T. N. Tsuchiya, Luis Villanueva, Alexander E. White, Madeline G. Bursell, Tiana Curry, Christelle Inema, and Kayla Geronimo-Anctil. "Let the records show: attribution of scientific credit in natural history collections."
+* **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens."
+  * Slides as [PDF and MP4 recording on Zenodo](https://doi.org/10.5281/zenodo.7799575)  
+* **Janelle Burke** (Howard University), Dominique Pittman-Kidd and Daniel Koenemann. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
+* **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
+Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections."
+
+## Presentations at the 2023 Annual Meeting of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) (Saturday March 25, 2023; Winston-Salem, North Carolina)
 * **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
   * Slides as [PDF on Zenodo](https://doi.org/10.5281/zenodo.7796330)
 * **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
@@ -84,22 +99,6 @@ Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytellin
   * Slides as [PDF on Git Hub](https://github.com/aweeks3/SISRIS/blob/main/presentations/Puppo_MUHW_SISRIS%20Symposium_ASB2023.pdf)
 * **Robin Lewis** (Spartanburg Community College), Hannah Bendull, and **Jessica Budke**. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
 * **Zack Murrell** (Appalachian State Univerity), Michael Denslow, Herrick Brown, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
-
-## Presentations at Botany 2023 (Wednesday July 26, 8 am - 12 pm; Boise, Idaho), sponsored by the [Society of Herbarium Curators](https://www.herbariumcurators.org/) within their Special Lecture session of the conference program.
-* **David Shorthouse** (Bionomia). "Connecting scientists and their specimens through Bionomia."
-* **Deborah L Paul** (University of Illinois). "Discovering together "who dunnit?": building a borderless knowledge community." 
-* **Erica Krimmel**, Holly Little. "People in the biodiversity knowledge graph and their roles in building the data connections we need."
-  * Slides as [PDF on Zenodo](https://doi.org/10.5281/zenodo.8174678)
-* **Katie Pearson** (Symbiota Support Hub), Ed Gilbert, Jenn Yost, Greg Post, and Nico Franz. "Even more hidden figures in biodiversity specimen collections: Tracking agent contributions in Symbiota."
-* **Herrick Brown** (Univerity of South Carolina), Zack Murrell, Michael Denslow, Andrea Weeks and Shawn Krosnick. "Strategies to enhance and sustain an established cyberinfrastructure." 
-* **Jessica Budke** (University of Tennessee-Knoxville), Hannah Bendull, and Robin Lewis. "The State of Herbarium Backlogs: Perspectives from Bryophyte Collections."
-* **Rebecca Dikow** (Smithsonian Institution), Jenna T. B. Ekwealor, William J. B. Mattingly, Michael G. Trizna, Elizabeth Harmon, Torsten Dikow, Carlos F. Arias, Richard G. J. Hodel, Jennifer Spillane, Mirian T. N. Tsuchiya, Luis Villanueva, Alexander E. White, Madeline G. Bursell, Tiana Curry, Christelle Inema, and Kayla Geronimo-Anctil. "Let the records show: attribution of scientific credit in natural history collections."
-* **Andrea Weeks** (George Mason University). "An exception proves the rule: Lena Artz (1891–1976) and her legacy of botanical specimens."
-  * Slides as [PDF and MP4 recording on Zenodo](https://doi.org/10.5281/zenodo.7799575)  
-* **Janelle Burke** (Howard University), Dominique Pittman-Kidd and Daniel Koenemann. "Prolific plant collectors and the HBCU legacy: Charles Parker as a case study." 
-* **Shawn Zeringue-Krosnick** (Tennessee Tech University), Olubunmi Aina, Adania Flemming, Molly Phillips, Jennifer Kovacs, 
-Siobhan Leachman, and Makenzie E. Mabry. "Digital data sleuthing and storytelling as tools to engage students with the unsung heroes of natural history collections."
-
 # Related Readings and Other Resources:
 
 *  Bauer J, Burkhalter R, Karim T, Krimmel E, Landis M, Leachman S, Little H, Lorente M, Mills SK, Neu-Yagle N, Norton B, Paul D, Shorthouse D, Utrup J, Van Veldhuizen J, and Walker L. 2022. Guidelines for Using Wikidata to Mobilize Information about People in Collections: A Paleontology Perspective. https://doi.org/10.5281/zenodo.6977243 (See [TDWG 2022 abstract](https://doi.org/10.3897/biss.5.74370))
