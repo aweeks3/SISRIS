@@ -1,7 +1,7 @@
 # What is SISRIS?
 <img align="left" width="200" height="200" src="https://user-images.githubusercontent.com/19411979/222419960-80c9dabc-5021-4c2a-aadf-7a5ca2c04a5f.jpg">
 
-The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is supported by a [conference grant from the US National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2247631&HistoricalAwards=false) to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tennessee Tech University; Hollister Herbarium). It supports US-based workshops and symposia that 1) share new practices that improve attribution of natural history specimens and 2) highlight research advances in systematics that can be made as a consequence of improved people-data within biodiversity informatics databases. the 2023 annual meetings of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) and . The purpose of the work is to   
+The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is supported by a [conference grant from the US National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2247631&HistoricalAwards=false) to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tennessee Tech University; Hollister Herbarium). It supports US-based workshops and symposia during 2023 and 2024 that 1) share new practices that improve attribution of natural history specimens and 2) highlight research advances in systematics that can be made as a consequence of improved people-data within biodiversity informatics databases.
 <img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/19411979/211927315-e306bf29-fc6d-433a-8b59-7afb34a841e6.png">
 
 # How can I participate in SISRIS?
@@ -10,22 +10,34 @@ Workshop participation at conferences is by application to this site: [SISRIS WO
 
 **Participation stipends are available from the NSF award to defray the cost of attending the workshops.**  
 
-Symposium attendance is open to any and all registered conference participants. Confirmed invited speakers and their titles are posted below. Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
+Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
-# Workshops
- 
-## Workshop Schedule at the 2023 Annual Meeting of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) (Friday March 24, 2023; Winston-Salem, North Carolina) (in-person only)
-* 1:30-1:40 pm: Welcome and logistics
-* 1:40-2:00 pm: Introductory remarks
-* 2:00–3:15 pm: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
-* 3:15–3:45 pm: Break
-* 3:45–5:05 pm: Hands-on: Participants document their own expertise and research contributions to
+# Workshops (in reverse chronological order)
+
+## Workshop Schedule at [Botany 2024](https://2024.botanyconference.org/) (Sunday June 16, 2024; Grand Rapids, Michigan) (in-person only)
+* 8:00-8:10 am: Welcome and logistics
+* 8:10-8:30 am Introductory remarks
+* 8:30-9:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform and learn how to _pay-it-forward_.
+* 9:45-10:15 am: Break
+* 10:15-11:25 am: Hands-on: Participants document their own expertise and research contributions to
 biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
 vitae and future publications, and learn how to track collection-level research impact.
-* 5:05–5:10 pm: Next steps and concluding remarks about how to amplify this effort after the workshop.
-* 5:10–5:30 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
-* 5:30 pm: Adjourn
+* 11:25-11:45 am: Wikidata (optional) and WrapUp.
+* 11:45-12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 12:00 pm: Adjourn
 
+## 2023 Online Workshop Schedule (Sunday August 6; Eastern Daylight Time/GMT-4 timezone)
+* 9:00-9:10 am: Welcome and logistics
+* 9:10-9:30 am Introductory remarks
+* 9:30-10:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform and learn how to _pay-it-forward_.
+* 10:45-11:15 am: Break
+* 11:15-12:25 pm: Hands-on: Participants document their own expertise and research contributions to
+biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
+vitae and future publications, and learn how to track collection-level research impact.
+* 12:25-12:45 pm: Wikidata (optional) and WrapUp.
+* 12:45-11:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 1:00 pm: Adjourn
+  
 ## Workshop Schedule at [Botany 2023](https://2023.botanyconference.org/) (Sunday July 23, 2023; Boise, Idaho) (in-person only)
 * 8:00-8:10 am: Welcome and logistics
 * 8:10-8:30 am Introductory remarks
@@ -38,17 +50,17 @@ vitae and future publications, and learn how to track collection-level research 
 * 11:45-12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 12:00 pm: Adjourn
 
-## Online Workshop Schedule (Sunday August 6; Eastern Daylight Time/GMT-4 timezone)
-* 9:00-9:10 am: Welcome and logistics
-* 9:10-9:30 am Introductory remarks
-* 9:30-10:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform and learn how to _pay-it-forward_.
-* 10:45-11:15 am: Break
-* 11:15-12:25 pm: Hands-on: Participants document their own expertise and research contributions to
+## Workshop Schedule at the 2023 Annual Meeting of the [Association of Southeastern Biologists](https://www.sebiologists.org/asb-2023.html) (Friday March 24, 2023; Winston-Salem, North Carolina) (in-person only)
+* 1:30-1:40 pm: Welcome and logistics
+* 1:40-2:00 pm: Introductory remarks
+* 2:00–3:15 pm: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform
+* 3:15–3:45 pm: Break
+* 3:45–5:05 pm: Hands-on: Participants document their own expertise and research contributions to
 biological research collections using Bionomia, learn how to use additional tools to augment their curriculum
 vitae and future publications, and learn how to track collection-level research impact.
-* 12:25-12:45 pm: Wikidata (optional) and WrapUp.
-* 12:45-11:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
-* 1:00 pm: Adjourn
+* 5:05–5:10 pm: Next steps and concluding remarks about how to amplify this effort after the workshop.
+* 5:10–5:30 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
+* 5:30 pm: Adjourn
  
 ## Pre-Workshop Homework (estimated time for completion: 60 min)
 1. Skim open-access paper [Groom et al. (2020)](https://doi.org/10.1093/database/baaa072) for an overview of why disambiguating the names of collectors and identifiers of biological specimens is important for advancing scientific research and for increasing professional recognition of taxonomic expertise.
