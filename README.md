@@ -76,6 +76,7 @@ vitae and future publications, and learn how to track collection-level research 
 3. [ASB 2023 Group Notes](https://docs.google.com/document/d/1962RgOCpEBIr96Z-OxRmARvjutaz_EI75komWWGw2ZU/edit?usp=sharing) for SISRIS Workshop.
 4. [Botany 2023 Group Notes](https://docs.google.com/document/d/173oD6YUpkvSkVa90GC16R9ZwnByQT6elUMU02dsq7xM/edit?usp=sharing) for SISRIS Workshop.
 5. [Online SISRIS Workshop Group Notes](https://docs.google.com/document/d/1iJb8zasTkr0IJ8rna0ikH4RqzKN49qmx4enzomLD2DU/edit?usp=sharing) for 6 August 2023.
+6. [Botany 2024 Group Notes] (https://docs.google.com/document/d/1XIMY8aNIXFSzEdOAbUnYq6fkajb4tc4pPBtu-8pPo-0/edit?usp=sharing) for SISRIS Workshop 16 June 2024.
 
 # Invited Symposia
 
