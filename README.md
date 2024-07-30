@@ -12,7 +12,7 @@ Weeks A, Collins E, Majors TW, Murrell ZE, Paul DL, Sheik M, Shorthouse DP, Zeri
 
 Registration for SISRIS sponsored 2023 and 2024 workhops is now closed.
 
-A video recording of the online workshop can be viewed here:
+A video recording of the August 6, 2023 online workshop can be viewed here:
 
 Paul, D. L., Shorthouse, D. P., Weeks, A., Zeringue Krosnick, S. E., & Majors, T. W. (2023, August 6). Online Workshop for Supporting Inclusive and Sustainable Research Infrastructure for Systematics by Connecting Scientists and their Specimens. Zenodo. [https://doi.org/10.5281/zenodo.8219649](https://doi.org/10.5281/zenodo.8219649)
 
