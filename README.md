@@ -4,11 +4,13 @@
 The project, "Supporting inclusive and sustainable research infrastructure for systematics (SISRIS) by connecting scientists and their specimens" is supported by a [conference grant from the US National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2247631&HistoricalAwards=false) to Dr. Andrea Weeks (George Mason University; Ted R. Bradley Herbarium), and Drs. Shawn Zeringue-Krosnick and Twanelle Majors (Tennessee Tech University; Hollister Herbarium). It supports US-based workshops and symposia during 2023 and 2024 that 1) share new practices that improve attribution of natural history specimens and 2) highlight research advances in systematics that can be made as a consequence of improved people-data within biodiversity informatics databases.
 <img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/19411979/211927315-e306bf29-fc6d-433a-8b59-7afb34a841e6.png">
 
+The outcomes from 2023 SISRIS workshop and symposium series are published here:
+
+Weeks A, Collins E, Majors TW, Murrell ZE, Paul DL, Sheik M, Shorthouse DP, Zeringue-Krosnick S (2024) Workshop Report: Supporting inclusive and sustainable collections-based research infrastructure for systematics (SISRIS). Research Ideas and Outcomes 10: e126532. [https://doi.org/10.3897/rio.10.e126532](https://doi.org/10.3897/rio.10.e126532).
+
 # How can I participate in SISRIS?
 
-Workshop participation at conferences is by application to this site: [SISRIS WORKSHOP REGISTRATION](https://tntech.co1.qualtrics.com/jfe/form/SV_bKrV3uJMACTDIkS). Workshop participants must also be registered conference participants in order to attend the events.
-
-**Participation stipends are available from the NSF award to defray the cost of attending the workshops.**  
+Registration for SISRIS sponsored 2023 and 2024 workhops is now closed.
 
 Inquiries about SISRIS may be directed to SISRIS2023[at]gmail[dot]com.
 
@@ -26,7 +28,7 @@ vitae and future publications, and learn how to track collection-level research 
 * 11:45-12:00 pm: Hands-on: Participants complete online workshop survey that will be emailed to each person.
 * 12:00 pm: Adjourn
 
-## 2023 Online Workshop Schedule (Sunday August 6; Eastern Daylight Time/GMT-4 timezone)
+## 2023 Online Workshop Schedule (Sunday August 6, 2023; Eastern Daylight Time/GMT-4 timezone)
 * 9:00-9:10 am: Welcome and logistics
 * 9:10-9:30 am Introductory remarks
 * 9:30-10:45 am: Hands-on: Participants disambiguate names of collectors from underrepresented groups on the Bionomia platform and learn how to _pay-it-forward_.
